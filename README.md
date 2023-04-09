@@ -132,13 +132,13 @@ This command will create a “jsdoc” folder at the root of your project direct
  * user's fullName
  * @type {string}
  */
-const fullName = "Anisul Islam";
+const fullName = "Sajib Bhattacharjee";
 
 /**
  * Array of users
  * @type {Array}
  */
-const users1 = ["Anisul Islam", "Robert", "David"];
+const users1 = ["Sajib Bhattacharjee", "Zahan", "Nayela"];
 
 /**
  * Array of users age
@@ -151,7 +151,7 @@ const users2 = [24, 32, 18];
  * @type {{name: string|number, age: number}}
  */
 const user = {
-  name: "david",
+  name: "Zahan",
   age: 32,
 };
 
@@ -161,11 +161,11 @@ const user = {
  */
 const users = [
   {
-    name: "david",
+    name: "Zahan ",
     age: 32,
   },
   {
-    name: "robert",
+    name: "Nayela",
     age: 31,
   },
 ];
