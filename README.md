@@ -1,8 +1,14 @@
 <p align="center">
  <img src="images/jsdoc.jpg" alt="JSDoc" title="JSDoc" width="100%" height="100%" />
-</p>
+</p> 
 
-## `JSDoc Documentation`
+
+<div align="center">
+	
+## `JSDoc Documentation` 
+ 
+</div>
+
 
 ## `Welcome`
 
